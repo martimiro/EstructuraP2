@@ -29,7 +29,7 @@ int main()
         switch (entrada)
         {
         case 1:
-        
+
             queue.enqueue();
 
             break;
